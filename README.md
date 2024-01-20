@@ -1,2 +1,2 @@
-github repo
+github repository
 new feature
